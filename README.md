@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Your Portfolio Website
 
 This is a personal portfolio website showcasing your projects and skills.
@@ -22,3 +23,6 @@ This is a personal portfolio website showcasing your projects and skills.
 ## Deployment
 
 [Add instructions for deploying your portfolio website]
+=======
+# Portfolio
+>>>>>>> origin/main
